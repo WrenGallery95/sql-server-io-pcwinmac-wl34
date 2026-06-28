@@ -1,4 +1,4 @@
-# 
+# Professional SQL Server Management Studio tools for Mac OS | Instant SQL Server Management Studio tools for PC Windows. Featuring API-monitoring and profiler — optimized for maximum performance on every platform.
 
 
 
